@@ -1,14 +1,14 @@
-# barao-1a-pensamentocomputacional
-## Site HTML e CSs
+# -Barao-1a-pensamentocomputacional
+## Site em HTML e CSS
 
-### Colégio Estadual Barão do Rio Branco
-Disciplina de **Pensamento Computacional**
+### Colégio estadual Barão do Rio Branco 
+disciplina de ** oensamento computacional**
 
 ---
 
-Desenvolvimento de site nas Linguagens HTML e CSS
-
-Estudante: *Thalles Henriky da Silva Lima* n *46*
-
+Desenvolvimento de site nas linguagens HTML e CSS
 
 Estudante: *Herson Báez Osorio* n *43*
+
+
+Estudante: * Thalles henriky da silva 
